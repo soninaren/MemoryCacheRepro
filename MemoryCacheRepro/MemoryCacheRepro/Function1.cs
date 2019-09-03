@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using System.Runtime.Caching;
 
-namespace FunctionApp24
+namespace MemoryCacheRepro
 {
     public static class Test
     {
